@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  <h1><b><FONT COLOR="red"> <p>SELAMAT HARI JADI <p>
+  <h1><b><FONT COLOR="red"> <p>SELAMAT HARI JADI
     
    <FONT COLOR="blue">
      <p>NUR HANISAH BINTI RAZAK<p>
